@@ -7,4 +7,9 @@ git commit -m "Mi primera APP probando"
 git remote add origin https://github.com/FransiSotz/Mi_primera_APP_Back.git
 git push -u origin master
 
-Comandos Para Actualizar Repositorio
+Comandos Para Actualizar Repositorio Ej:
+git add .
+git commit -m "Agregando"
+git push -u origin master
+
+Comando para descargar lo mas actualizado
