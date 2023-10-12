@@ -13,3 +13,8 @@ git commit -m "Agregando"
 git push -u origin master
 
 Comando para descargar lo mas actualizado
+
+Comando para clonar un repositorio
+Ubicarse en el directorio donde guardar
+git clone https://github.com/FransiSotz/Mi_primera_APP_Back.git
+
