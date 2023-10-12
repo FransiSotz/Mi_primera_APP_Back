@@ -13,6 +13,8 @@ git commit -m "Agregando"
 git push -u origin master
 
 Comando para descargar lo mas actualizado
+Ubicarse dentro del directorio
+git pull
 
 Comando para clonar un repositorio
 Ubicarse en el directorio donde guardar
